@@ -1,24 +1,26 @@
 {
   "files": {
     "main.css": "/bakery/static/css/main.0e73c8f2.css",
-    "main.js": "/bakery/static/js/main.dd36568a.js",
-    "static/js/997.08f212d4.chunk.js": "/bakery/static/js/997.08f212d4.chunk.js",
-    "static/js/335.66c4503c.chunk.js": "/bakery/static/js/335.66c4503c.chunk.js",
+    "main.js": "/bakery/static/js/main.2a1365cf.js",
+    "static/js/681.e9a875fe.chunk.js": "/bakery/static/js/681.e9a875fe.chunk.js",
+    "static/js/94.4f881b69.chunk.js": "/bakery/static/js/94.4f881b69.chunk.js",
     "static/js/787.3ce4cc4d.chunk.js": "/bakery/static/js/787.3ce4cc4d.chunk.js",
-    "static/js/751.68035414.chunk.js": "/bakery/static/js/751.68035414.chunk.js",
-    "static/js/224.90dde047.chunk.js": "/bakery/static/js/224.90dde047.chunk.js",
+    "static/js/979.1a6b3deb.chunk.js": "/bakery/static/js/979.1a6b3deb.chunk.js",
+    "static/css/707.e0d7a0ca.chunk.css": "/bakery/static/css/707.e0d7a0ca.chunk.css",
+    "static/js/707.e1b9c330.chunk.js": "/bakery/static/js/707.e1b9c330.chunk.js",
     "static/media/logo.svg": "/bakery/static/media/logo.c4286ae05ee942b78f01.svg",
     "index.html": "/bakery/index.html",
     "main.0e73c8f2.css.map": "/bakery/static/css/main.0e73c8f2.css.map",
-    "main.dd36568a.js.map": "/bakery/static/js/main.dd36568a.js.map",
-    "997.08f212d4.chunk.js.map": "/bakery/static/js/997.08f212d4.chunk.js.map",
-    "335.66c4503c.chunk.js.map": "/bakery/static/js/335.66c4503c.chunk.js.map",
+    "main.2a1365cf.js.map": "/bakery/static/js/main.2a1365cf.js.map",
+    "681.e9a875fe.chunk.js.map": "/bakery/static/js/681.e9a875fe.chunk.js.map",
+    "94.4f881b69.chunk.js.map": "/bakery/static/js/94.4f881b69.chunk.js.map",
     "787.3ce4cc4d.chunk.js.map": "/bakery/static/js/787.3ce4cc4d.chunk.js.map",
-    "751.68035414.chunk.js.map": "/bakery/static/js/751.68035414.chunk.js.map",
-    "224.90dde047.chunk.js.map": "/bakery/static/js/224.90dde047.chunk.js.map"
+    "979.1a6b3deb.chunk.js.map": "/bakery/static/js/979.1a6b3deb.chunk.js.map",
+    "707.e0d7a0ca.chunk.css.map": "/bakery/static/css/707.e0d7a0ca.chunk.css.map",
+    "707.e1b9c330.chunk.js.map": "/bakery/static/js/707.e1b9c330.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e73c8f2.css",
-    "static/js/main.dd36568a.js"
+    "static/js/main.2a1365cf.js"
   ]
 }
