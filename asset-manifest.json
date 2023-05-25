@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bakery/static/css/main.0e73c8f2.css",
-    "main.js": "/bakery/static/js/main.2a1365cf.js",
-    "static/js/681.e9a875fe.chunk.js": "/bakery/static/js/681.e9a875fe.chunk.js",
+    "main.js": "/bakery/static/js/main.ac08c982.js",
+    "static/js/681.df1427f5.chunk.js": "/bakery/static/js/681.df1427f5.chunk.js",
     "static/js/94.4f881b69.chunk.js": "/bakery/static/js/94.4f881b69.chunk.js",
     "static/js/787.3ce4cc4d.chunk.js": "/bakery/static/js/787.3ce4cc4d.chunk.js",
     "static/js/979.1a6b3deb.chunk.js": "/bakery/static/js/979.1a6b3deb.chunk.js",
@@ -11,8 +11,8 @@
     "static/media/logo.svg": "/bakery/static/media/logo.c4286ae05ee942b78f01.svg",
     "index.html": "/bakery/index.html",
     "main.0e73c8f2.css.map": "/bakery/static/css/main.0e73c8f2.css.map",
-    "main.2a1365cf.js.map": "/bakery/static/js/main.2a1365cf.js.map",
-    "681.e9a875fe.chunk.js.map": "/bakery/static/js/681.e9a875fe.chunk.js.map",
+    "main.ac08c982.js.map": "/bakery/static/js/main.ac08c982.js.map",
+    "681.df1427f5.chunk.js.map": "/bakery/static/js/681.df1427f5.chunk.js.map",
     "94.4f881b69.chunk.js.map": "/bakery/static/js/94.4f881b69.chunk.js.map",
     "787.3ce4cc4d.chunk.js.map": "/bakery/static/js/787.3ce4cc4d.chunk.js.map",
     "979.1a6b3deb.chunk.js.map": "/bakery/static/js/979.1a6b3deb.chunk.js.map",
@@ -21,6 +21,6 @@
   },
   "entrypoints": [
     "static/css/main.0e73c8f2.css",
-    "static/js/main.2a1365cf.js"
+    "static/js/main.ac08c982.js"
   ]
 }
